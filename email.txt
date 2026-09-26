@@ -1,0 +1,20 @@
+From: IT Security <security@company.com>
+To: idriss@company.com
+Subject: Urgent: Your Microsoft 365 account will be suspended
+Reply-To: security-alert@attacker-example.com
+Return-Path: security@company.com
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+
+Hello Idriss,
+
+Our security system detected unusual activity on your Microsoft 365 account.
+
+Your account will be suspended within 24 hours unless you verify your identity immediately.
+
+Please verify your account here:
+
+https://micr0soft.com
+
+Failure to complete this verification may result in loss of access to your company email and files.
+
+IT Security Team
